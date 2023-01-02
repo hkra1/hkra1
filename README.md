@@ -4,8 +4,10 @@
 - 💞️ I’m looking to collaborate on ... cloud, IoT.
 - [X] review markdown cheatsheet.
 - [ ] build portfolio.
-
+[^1]: this is a foot note from me.
 ---
+
+
 
 <!---
 hkra1/hkra1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
