@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... anything and everthing useful
 - 💞️ I’m looking to collaborate on ... cloud, IoT.
 - [X] review markdown cheatsheet.
-- [ ] build portfolio.
+- [X] build portfolio.
 [^1]: this is a foot note from me.
 ---
 
