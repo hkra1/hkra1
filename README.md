@@ -7,7 +7,8 @@
 - [ ] revise contributing guidelines.
 - [ ] revise code of conduct.
 - [ ] check issue tracker.
-[^1]: Artist, Programmer, .
+[^1]: Artist, Programmer,
+[^2]: github for resume, codes, notes.  
 
 ---
 
