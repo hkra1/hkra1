@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ... cloud, IoT.
 - [X] review markdown cheatsheet.
 - [X] build portfolio.
-[^1]: this is a foot note from me.
+[^1]: Artist, Programmer, .
+
 ---
 
 
