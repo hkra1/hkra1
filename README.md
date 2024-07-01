@@ -2,8 +2,11 @@
 - 👀 I’m interested in ... health, economy, environment, tech, sports & games, arts,  
 - 🌱 I’m currently learning ... anything and everthing useful
 - 💞️ I’m looking to collaborate on ... cloud, IoT.
-- [X] review markdown cheatsheet.
+- [ ] create markdown cheatsheet.
 - [X] build portfolio.
+- [ ] revise contributing guidelines.
+- [ ] revise code of conduct.
+- [ ] check issue tracker.
 [^1]: Artist, Programmer, .
 
 ---
