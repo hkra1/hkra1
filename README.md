@@ -70,6 +70,14 @@ I'm actively interested in:
 
 ## 📖 What I'm Currently Exploring
 
+- **SCTPhantom (CVE-2026-64564)** — 18-year-old Linux SCTP use-after-free that enables reliable container-to-host root escapes even under default seccomp; kernel patches are out, but any cluster still running older kernels with SCTP exposed is at risk. [Details](https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html)
+- **MAI-Cyber-1-Flash + MDASH / Project Perception** — Microsoft’s first purpose-built cybersecurity model claims ~96% on CyberGym at half the cost of frontier models by routing 90% of tasks to a compact specialist agent. [Microsoft announcement](https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/)
+- Zero-trust enforcement patterns that survive long-lived kernel and runtime vulnerabilities like the above.
+
+## 🗄️ Recent Focus (Archive)
+
+*Newest → oldest. Keeping the last 7–10 entries.*
+
 - Advanced threat detection using ML
 - Zero-trust architecture implementations
 - Cloud-native security patterns
